@@ -1,0 +1,1 @@
+#Project of the web accessibility course for Alura's front end.
